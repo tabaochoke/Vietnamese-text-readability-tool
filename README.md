@@ -1,2 +1,2 @@
 # NLP
- A Vietnamese text readability model
+A python tool for  Vietnamese text readability assesment.
