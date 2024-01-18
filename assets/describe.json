@@ -1,0 +1,18 @@
+{
+    "0": {
+        "label": "Very easy",
+        "describe": "Texts intended for children, and can be read and understood by those who have already or are currently in primary school"
+    },
+    "1": {
+        "label": "Easy",
+        "describe": "Texts intended for middle school students or people with middle school education, and can be read and understood by most of the people who have already or are currently in pre-intermediate education"
+    },
+    "2": {
+        "label": "Medium",
+        "describe": "Texts intended for high school students or people with high school education, and can be read and understood by most of the people who have already or are currently in intermediate education"
+    },
+    "3": {
+        "label": "Hard",
+        "describe": "Specialized texts, especially ones that are intended for college students, as well as documents for specialized education, which can be read and understood by people who have already or are currently in advanced education."
+    }
+}
